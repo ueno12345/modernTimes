@@ -1,6 +1,0 @@
-coverage
-rdoc
-pkg/*
-Gemfile.lock
-*.gem
-.bundle
