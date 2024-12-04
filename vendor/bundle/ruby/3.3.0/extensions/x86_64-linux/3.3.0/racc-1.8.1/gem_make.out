@@ -1,0 +1,18 @@
+current directory: /home/ueno/tmp/modernTimes/vendor/bundle/ruby/3.3.0/gems/racc-1.8.1/ext/racc/cparse
+/home/ueno/.rbenv/versions/3.3.6/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /home/ueno/tmp/modernTimes/vendor/bundle/ruby/3.3.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20241205-71206-dc3ueh sitelibdir\=./.gem.20241205-71206-dc3ueh clean
+
+current directory: /home/ueno/tmp/modernTimes/vendor/bundle/ruby/3.3.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20241205-71206-dc3ueh sitelibdir\=./.gem.20241205-71206-dc3ueh
+compiling cparse.c
+linking shared-object racc/cparse.so
+
+current directory: /home/ueno/tmp/modernTimes/vendor/bundle/ruby/3.3.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20241205-71206-dc3ueh sitelibdir\=./.gem.20241205-71206-dc3ueh install
+/usr/bin/install -c -m 0755 cparse.so ./.gem.20241205-71206-dc3ueh/racc
+
+current directory: /home/ueno/tmp/modernTimes/vendor/bundle/ruby/3.3.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20241205-71206-dc3ueh sitelibdir\=./.gem.20241205-71206-dc3ueh clean

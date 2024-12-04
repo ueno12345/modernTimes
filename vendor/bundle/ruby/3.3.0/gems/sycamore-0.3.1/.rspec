@@ -1,0 +1,6 @@
+--color
+#--format documentation
+#--format progress
+#--format Fuubar
+#--fail-fast
+--require spec_helper
